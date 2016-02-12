@@ -1,0 +1,40 @@
+_repo: The-Wolf-Leader_51054
+contributor:
+  illustrator:
+    agent_name: Adams, Franklin P. (Franklin Pierce)
+    alias: Adams, Franklin Pierce
+    birthdate: 1881
+    deathdate: 1960
+    gutenberg_agent_id: '1958'
+    url: http://www.gutenberg.org/2009/agents/1958
+    wikipedia: http://en.wikipedia.org/wiki/Franklin_Pierce_Adams
+  translator:
+    agent_name: Allinson, A. R. (Alfred Richard)
+    alias: Allinson, Alfred Richard
+    birthdate: 1854
+    gutenberg_agent_id: '8208'
+    url: http://www.gutenberg.org/2009/agents/8208
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Richard_Allinson
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexandre, pere
+    - Dumas père, Alexandre
+    - Dumas, Alexander
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2016-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51054'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Wolf-Leader
+url: http://www.gutenberg.org/ebooks/51054

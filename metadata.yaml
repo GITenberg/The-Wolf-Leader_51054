@@ -1,4 +1,5 @@
 _repo: The-Wolf-Leader_51054
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Adams, Franklin P. (Franklin Pierce)
@@ -15,6 +16,9 @@ contributor:
     gutenberg_agent_id: '8208'
     url: http://www.gutenberg.org/2009/agents/8208
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Richard_Allinson
+covers:
+- cover_type: archival
+  image_path: 51054-h/images/cover.jpg
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -28,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51054#The-Wolf-Leader
 gutenberg_issued: '2016-01-27'
 gutenberg_type: Text
 identifiers:
